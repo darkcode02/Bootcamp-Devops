@@ -1,0 +1,3 @@
+hola como estas estoy rellendando este archivo con la opcion cat > hola.txt
+
+
