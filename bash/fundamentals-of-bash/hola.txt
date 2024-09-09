@@ -1,3 +1,4 @@
 hola como estas estoy rellendando este archivo con la opcion cat > hola.txt
 
 
+hola este archivo es generado automaticamente desde un input

@@ -1,0 +1,16 @@
+archivo_para_stdin.txt
+arguments.sh
+case.sh
+conditionals.sh
+continue_break.sh
+datos.json
+datos.sh
+file.txt
+helloworld.sh
+hola.txt
+logical_operator.sh
+loop.sh
+output.sh
+read.sh
+stderr_stdout.sh
+stdin.sh

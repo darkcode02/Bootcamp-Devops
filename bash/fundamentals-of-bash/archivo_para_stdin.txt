@@ -1,0 +1,1 @@
+hola,  este archivo sera usado para el ejemplo de stdin
