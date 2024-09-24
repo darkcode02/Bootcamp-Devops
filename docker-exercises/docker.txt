@@ -1,0 +1,5 @@
+Curso de docker
+manejar la persistencia de los datos en volumenes
+
+docker run --name web-nginx -v /home/dark/code/bootcamp/Bootcamp-Devops/docker-exercises/volume/index.html:/usr/share/nginx/html/index.html -d -p 8081:80 nginx:alpine
+

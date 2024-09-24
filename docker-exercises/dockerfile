@@ -1,0 +1,12 @@
+FROM ubuntu:latest 
+
+RUN apt-get update
+RUN apt-get install -y python-pip
+RUN pip install django
+
+COPY . /app
+WORKDIR /app
+
+EXPOSE 5000 
+
+CMD ["python", "app.py"]
